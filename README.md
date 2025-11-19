@@ -1,9 +1,9 @@
 # 📊 Task 4 – Dashboard Design (Data Analyst Internship)
 
-## 🔥 Project: Interactive Sales Analytics Dashboard (Tableau)
+## 🔥 Project: SuperStore Sales Inetractive Dashboard (Power BI)
 
 This project is part of the Data Analyst Internship Task 4.  
-The goal was to design an **interactive business dashboard** using Tableau based on a Superstore sales dataset.
+The goal was to design an **interactive business dashboard** using Power BI based on a Superstore sales dataset.
 
 The dashboard helps stakeholders analyze sales performance, customer behavior, product trends, and regional insights.
 
@@ -26,7 +26,7 @@ The dashboard helps stakeholders analyze sales performance, customer behavior, p
 ---
 
 ## 🧹 Data Cleaning & Preparation
-Performed in Tableau:
+Performed in Power BI:
 - Converted **Order Date** & **Ship Date** to Date format  
 - Removed invalid or blank rows  
 - Verified numeric fields (Sales, Quantity, Profit)  
@@ -37,7 +37,7 @@ Performed in Tableau:
 
 ---
 
-## 📊 Dashboard Features (Tableau)
+## 📊 Dashboard Features 
 
 ### ⭐ KPI Cards
 - Total Sales  
@@ -94,17 +94,9 @@ task4-dashboard/
 
 │ └── superstore_dataset.csv
 
-│── tableau/
-
-│ └── Sales_Dashboard.twbx
+│ ── Superstore Sales Dashboard.pbix
 
 │── screenshots/
-
-│ ├── dashboard.png
-
-│ ├── kpi_cards.png
-
-│ └── charts.png
 
 └── README.md
 
@@ -114,15 +106,15 @@ Copy code
 ---
 
 ## 🚀 How to Run the Dashboard
-1. Install **Tableau Public** (free).
-2. Download the `.twbx` file from this repository.
-3. Open it in Tableau Public.
+1. Install **Power BI Desktop ** (free).
+2. Download the `.pbix` file from this repository.
+3. Open it in Power BI Desktop.
 4. Use filters (Category, Region, Segment, Date) to explore the data.
 
 ---
 
 ## 🧾 Summary
-This Tableau dashboard provides a complete end-to-end visual analysis of the Superstore dataset, allowing users to explore sales patterns, category trends, customer segments, and regional performance.
+This Power Bi dashboard provides a complete end-to-end visual analysis of the Superstore dataset, allowing users to explore sales patterns, category trends, customer segments, and regional performance.
 
 ---
 
